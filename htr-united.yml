@@ -14,92 +14,131 @@ authors:
 automatically-aligned: false
 characters:
   members:
-  - e
-  - a
   - i
+  - e
+  - u
+  - t
+  - a
+  - n
   - o
   - r
-  - n
-  - t
-  - l
-  - s
+  - m
+  - ſ
   - c
   - d
-  - u
+  - s
+  - l
   - p
-  - m
-  - v
   - ','
-  - g
-  - h
-  - f
-  - b
-  - .
-  - z
-  - ̀
-  - ¬
   - q
-  - I
-  - '-'
-  - C
-  - A
-  - "'"
-  - ’
-  - M
+  - b
+  - h
+  - .
+  - g
+  - f
+  - ¬
+  - '&'
+  - æ
+  - ̃
   - P
   - E
-  - '"'
-  - S
-  - ;
-  - L
-  - '='
-  - T
-  - R
-  - O
+  - v
   - D
+  - x
+  - I
+  - ̀
+  - C
+  - A
+  - ·
+  - S
   - V
-  - G
+  - M
+  - T
+  - j
+  - ;
   - ':'
   - N
-  - '1'
-  - '!'
-  - B
-  - )
-  - —
-  - '4'
-  - (
-  - F
-  - '['
-  - ']'
-  - Q
-  - '2'
-  - '?'
-  - '0'
-  - '3'
-  - '9'
-  - '5'
-  - U
-  - °
-  - ⬪
-  - '6'
-  - y
-  - Z
-  - k
-  - ᗅ
-  - K
-  - x
-  - §
+  - ́
+  - α
+  - O
   - H
+  - Q
+  - R
+  - '1'
+  - L
+  - ι
+  - '2'
+  - ς
+  - ν
+  - '3'
+  - ο
+  - ß
+  - y
+  - œ
+  - ̓
+  - ω
+  - τ
+  - '5'
+  - ̨
+  - )
+  - '4'
+  - κ
+  - ε
+  - F
+  - B
+  - ρ
+  - η
+  - ͂
+  - ̂
+  - σ
+  - '9'
+  - G
+  - (
   - '8'
-  - X
+  - μ
+  - υ
+  - '6'
+  - λ
   - '7'
-  - W
-  - –
-  - ^
-  - “
-  - ᑕ
+  - δ
+  - γ
+  - ꝙ
+  - '0'
+  - π
+  - θ
+  - ͅ
+  - Z
+  - '?'
+  - ¶
+  - ξ
+  - χ
+  - Α
+  - '|'
+  - φ
+  - ̔
+  - '!'
+  - z
+  - Π
+  - β
+  - ζ
+  - X
   - ᗞ
-  - w
+  - ꝑ
+  - '-'
+  - ח
+  - ר
+  - ל
+  - 
+  - Τ
+  - Μ
+  - Æ
+  - ϲ
+  - Κ
+  - ᚠ
+  -  
+  - ꝗ
+  - đ
+  - ꝓ
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16/blob/master/CITATION.cff
 description: Archives and novels
@@ -127,11 +166,11 @@ title: FONDUE-LA-PRINT-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 volume:
-- count: 54628
+- count: 38544
   metric: characters
-- count: 28
+- count: 36
   metric: files
-- count: 1150
+- count: 1124
   metric: lines
-- count: 67
+- count: 167
   metric: regions
