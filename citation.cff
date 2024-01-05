@@ -5,6 +5,9 @@ message: >-
   metadata from this file.
 type: dataset
 authors:
+  - family-names: Jeannot-Tirole
+    given-names: Marie
+    orcid: https://orcid.org/0000-0002-6607-653X
   - family-names: Gabay
     given-names: Simon
     email: simon.gabay@unige.ch

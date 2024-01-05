@@ -11,6 +11,13 @@ authors:
   roles:
   - transcriber
   surname: Goy
+- name: Marie
+  orcid: 0000-0002-6607-653X
+  roles:
+  - transcriber
+  - aligner
+  - project-manager
+  surname: Jeannot-Tirole
 automatically-aligned: false
 characters:
   members:
