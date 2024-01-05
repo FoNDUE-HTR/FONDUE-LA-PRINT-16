@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "FONDUE-IT-PRINT-20"
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    email: simon.gabay@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Zaglio
+    given-names: Maddalena
+    affiliation: Geneva University
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20'
+keywords:
+  - HTR
+  - italian
+  - contemporary
+  - archive
+version: 1.0
+date-released: 2023-12-02
