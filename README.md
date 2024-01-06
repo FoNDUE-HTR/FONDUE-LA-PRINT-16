@@ -1,30 +1,38 @@
-# FONDUE-IT-PRINT-20
+# FONDUE-LA-PRINT-16
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
-This repo contains the transcription of 20th c. Italian prints.
+This repo contains the transcription of 16th c. latin prints.
 
 ## Content
 
-Archives:
-
-| Town  | Library                                                    | Shelfmark / Title                                                  | Pages    | Date      | Transcription |
-|-------|------------------------------------------------------------|--------------------------------------------------------------------|----------|-----------|---------------|
-| Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _Come mi accadde di diventare questore_                            | 8 pages  | 1936-1950 | M. Zaglio     |
-| Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _La Provvidenza in viaggio_                                        | 5 pages  | 1936-1950 | M. Zaglio     |
-| Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _Le mie disavventure come oratore, come pubblicista, come Vescovo_ | 5 pages  | 1936-1950 | M. Zaglio     |
-| Milan | Archivio Storico provinciale dei Frati Minori di Lombardia | _Maledizione alla guerra_                                          | 5 pages  | 1936-1950 | M. Zaglio     |
 
 Books:
 
-| Author /editor    | Title                                                                       | Date | Publisher | Pages    | Transcription          |
-|-------------------|-----------------------------------------------------------------------------|------|-----------|----------|------------------------|
-| Luigi Pirandello  | [_Uno, nessuno e centomila_](https://books.google.it/books?id=fbEHAQAAIAAJ) | 1936 | Mondadori | 5 pages  | S. Gabay               |
+| Author /editor  | Title / Poem name                                                                                       | Date | Location   | Publisher        | Pages    | Transcription     |
+|-----------------|---------------------------------------------------------------------------------------------------------|------|------------|------------------|----------|-------------------|
+| Johann Sapidus  | [_Consolatorium ad Iacobum Vuinphelingum_](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11220220-4) | 1514 | Strasbourg | Matthias Schürer | 7 pages  | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Ad Sodales Erasmo Roterodamo consuetudine iunctissimos_](http://data.onb.ac.at/ABO/%2BZ178332305)     | 1518 | Basel      | Johann Froben    | 4 pages  | M. Jeannot-Tirole |
+| Johann Sapidus  | [_lo. Sapidi Selestad. pædonomi._](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00080053-6)        | 1519 | Strasbourg | Johann Schott    | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_lo. Sapidi. Selestadii bonas literas docentis, Epigramma. Liber loquitur._](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10984759-7) | 1520 | Basel | Adam Petri | 1 page | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Epigrammata Ioannis Sapidi. Selestadii bonas literas ac linguam utramque docentis_](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10203276-3) | 1520 | Sélestat | Lazare Schürer | 1 page | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Sylua epistolaris seu Barba_](http://dx.doi.org/10.25673/opendata2-175)                               | 1534 | Strasbourg | Johann Albrecht   | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_In Fabrum_](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00027164-7)                              | 1526 | Strasbourg | Wolfgang Köpfel   | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Ad lectorem_](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10933854-1)                            | 1530 | Haguenau   | Johann Secerius   | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Ad lectorem_](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10933854-1)                            | 1530 | Strasbourg | Georg Ulricher    | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Paraphrastica_](http://data.onb.ac.at/ABO/+Z180244804)                                                | 1534 | Strasbourg | Johann Albrecht   | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Iuuentuti Germanicæ_](https://nbn-resolving.org/urn:nbn:de:gbv:3:1-185616)                            | 1535 | Strasbourg | Wendelin Rihel    | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_Erasmus, siue Apotheosis Erasmi_](https://doi.org/10.3931/e-rara-3884)                                | 1536-37 | Basel   | Johann Froben     | 1 page   | M. Jeannot-Tirole |
+| Johann Sapidus  | [_De poculo Pauli Volsii, quod ab Erasmo Roterodami dono accepit_](https://doi.org/10.3931/e-rara-3884) | 1536-37 | Basel   | Johann Froben     | 1 page   | M. Jeannot-Tirole |
+|                 | [_XXXX_](https://www.e-rara.ch/)                                                                        |      |            |                   | 1 page   | Fl. Goy           |
+|                 | [_XXXX_](https://www.e-rara.ch/)                                                                        |      |            |                   | 1 page   | Fl. Goy           |
+|                 | [_XXXX_](https://www.e-rara.ch/)                                                                        |      |            |                   | 1 page   | Fl. Goy           |
+|                 | [_XXXX_](https://www.e-rara.ch/)                                                                        |      |            |                   | 1 page   | Fl. Goy           |
 
 
 ## How to cite
 
-Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20/blob/main/htr-united.yml) file.
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16/blob/main/htr-united.yml) file.
 
 ## Licences
 Annotation is CC-BY. Images belong to the digital libraries.
