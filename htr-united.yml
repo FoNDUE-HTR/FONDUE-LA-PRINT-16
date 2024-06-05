@@ -88,8 +88,8 @@ characters:
   - ι
   - (
   - ̧
-  - ο
   - '3'
+  - ο
   - ς
   - '5'
   - '4'
@@ -98,8 +98,8 @@ characters:
   - ω
   - τ
   - ̓
-  - '9'
   - X
+  - '9'
   - ̂
   - σ
   - '0'
@@ -162,6 +162,7 @@ characters:
   - ᚠ
   -  
   - ꝟ
+  - ↄ
   - đ
   - 
   - ƀ
@@ -193,11 +194,11 @@ title: FONDUE-LA-PRINT-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 volume:
-- count: 204316
+- count: 204326
   metric: characters
 - count: 223
   metric: files
-- count: 5936
+- count: 5937
   metric: lines
 - count: 688
   metric: regions
