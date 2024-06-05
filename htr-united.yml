@@ -47,8 +47,8 @@ characters:
   - ¬
   - '&'
   - v
-  - I
   - ̃
+  - I
   - E
   - A
   - x
@@ -59,8 +59,8 @@ characters:
   - C
   - V
   - N
-  - 
   - ́
+  - 
   - T
   - M
   - Q
@@ -72,37 +72,37 @@ characters:
   - L
   - '1'
   - y
-  - B
   - '2'
+  - B
   - œ
   - α
   - G
   - ι
+  - '3'
   - £
   - ß
-  - '3'
   - ο
   - F
   - ̨
   - '5'
   - ν
   - '4'
-  - '?'
   - τ
+  - '?'
   - ε
-  - ·
   - ς
-  - )
-  - ̓
+  - ·
   - ̂
   - ;
+  - )
+  - ̓
   - '6'
+  - '8'
+  - '9'
+  - (
   - σ
   - ρ
-  - (
-  - '9'
   - '7'
-  - '8'
   - υ
   - κ
   - ω
@@ -110,8 +110,8 @@ characters:
   - μ
   - π
   - λ
-  - ̧
   - z
+  - ̧
   - '0'
   - δ
   - ͂
@@ -123,32 +123,32 @@ characters:
   - '{'
   - β
   - 
-  - ξ
   - ̈
-  - φ
+  - ξ
   - Æ
   - Z
+  - φ
   - Α
   - ¶
   - U
   - ͅ
   - J
   - ꝑ
+  - ’
   - ꝙ
   - '-'
   - ⟦
   - ⟧
   - ꝵ
-  - ’
   - '|'
   - ʹ
   - ꝓ
   - Y
   - Μ
   - Ε
+  - "'"
   - Κ
   - Π
-  - "'"
   - ⁹
   - k
   - ζ
@@ -208,11 +208,11 @@ title: FONDUE-LA-PRINT-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 volume:
-- count: 351628
+- count: 366646
   metric: characters
-- count: 353
+- count: 365
   metric: files
-- count: 10233
+- count: 10648
   metric: lines
-- count: 1150
+- count: 1198
   metric: regions
