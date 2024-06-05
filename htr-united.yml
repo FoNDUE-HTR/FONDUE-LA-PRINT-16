@@ -44,25 +44,25 @@ characters:
   - h
   - f
   - æ
-  - I
   - ¬
+  - I
   - ̃
-  - E
-  - S
-  - A
   - '&'
+  - E
+  - A
+  - S
   - x
-  - D
-  - P
-  - 
-  - C
   - v
+  - P
+  - D
   - ̀
-  - N
+  - C
+  - 
   - V
+  - N
   - ́
-  - M
   - T
+  - M
   - Q
   - O
   - R
@@ -71,96 +71,99 @@ characters:
   - j
   - L
   - B
-  - œ
   - y
+  - œ
   - £
   - ß
   - G
-  - ̨
-  - F
-  - α
   - '1'
-  - '?'
-  - ·
-  - ο
+  - F
+  - ̨
+  - α
   - '2'
+  - '?'
+  - ο
   - ι
   - '3'
-  - ;
+  - ·
   - ν
-  - τ
-  - )
-  - (
-  - σ
   - ε
+  - ;
+  - τ
+  - (
+  - )
   - '5'
   - '4'
-  - ̓
+  - σ
   - ς
+  - ̓
+  - ̂
   - ω
-  - ρ
   - υ
   - '9'
-  - ̧
-  - ̂
+  - ρ
+  - '8'
   - κ
   - η
-  - '8'
-  - μ
-  - '7'
-  - '0'
-  - X
   - '6'
-  - π
+  - ̧
+  - '7'
+  - μ
+  - '0'
   - ͂
+  - π
+  - X
   - δ
   - λ
   - γ
   - z
+  - ̔
+  - '{'
   - 
   - β
-  - ̔
   - ̈
+  - θ
   - Z
   - φ
   - χ
-  - ¶
   - Æ
+  - ¶
+  - ξ
   - J
   - ꝑ
   - ꝙ
   - '-'
-  - θ
+  - U
   - ⟦
   - ⟧
   - ꝵ
-  - U
   - ꝓ
-  - ξ
-  - '|'
-  - Y
   - ͅ
   - Α
+  - '|'
+  - Y
+  - Μ
   - ⁹
   - k
+  - Κ
   - ζ
   - Π
   - ↄ
-  - Κ
+  - ’
   - '!'
   - ꝗ
+  - Ε
+  - ʹ
   - ←
   - ❧
   - W
   - K
-  - ’
   - ψ
   - ᗞ
   - ח
   - ר
   - ל
   - Τ
-  - Μ
   - ϲ
   - ᚠ
   -  
@@ -172,7 +175,6 @@ characters:
   - ᾽
   - ƀ
   - ꝰ
-  - Ε
   - Σ
   mode: NFD
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16/blob/master/CITATION.cff
@@ -201,11 +203,11 @@ title: FONDUE-LA-PRINT-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 volume:
-- count: 252893
+- count: 278872
   metric: characters
-- count: 272
+- count: 296
   metric: files
-- count: 7392
+- count: 8231
   metric: lines
-- count: 848
+- count: 934
   metric: regions
