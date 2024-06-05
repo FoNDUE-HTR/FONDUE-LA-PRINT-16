@@ -24,8 +24,8 @@ characters:
   - i
   - e
   - u
-  - a
   - t
+  - a
   - r
   - n
   - o
@@ -37,8 +37,8 @@ characters:
   - d
   - p
   - ','
-  - b
   - .
+  - b
   - q
   - g
   - h
@@ -48,112 +48,114 @@ characters:
   - '&'
   - I
   - ̃
+  - v
   - E
   - A
   - S
-  - v
   - x
-  - P
   - D
+  - P
   - ̀
   - C
   - V
-  - 
   - N
+  - 
   - ́
   - T
   - M
   - Q
-  - O
   - R
+  - O
   - ':'
   - H
   - j
   - L
+  - '1'
   - B
   - y
   - œ
-  - '1'
+  - '2'
+  - α
+  - G
   - £
   - ß
-  - G
-  - α
-  - F
-  - '2'
-  - ̨
-  - ι
   - '3'
+  - F
+  - ι
+  - ̨
   - ο
-  - '?'
-  - ·
-  - ν
-  - ε
   - '5'
-  - ;
-  - τ
-  - )
-  - (
+  - '?'
+  - ν
   - '4'
-  - σ
-  - ς
+  - τ
+  - ε
+  - ·
+  - ;
+  - )
   - ̓
+  - σ
+  - (
+  - ς
   - ̂
   - '9'
-  - ω
-  - υ
   - '6'
   - '8'
-  - ρ
-  - κ
-  - η
   - '7'
+  - ρ
+  - ω
+  - υ
+  - η
+  - κ
   - μ
+  - π
   - ̧
   - '0'
-  - π
-  - ͂
   - λ
   - γ
-  - X
+  - ͂
   - δ
+  - X
   - z
   - ̔
-  - '{'
   - θ
+  - '{'
+  - χ
   - 
   - β
   - ̈
+  - ξ
   - Z
   - φ
-  - χ
   - Æ
   - ¶
-  - ξ
   - Α
+  - U
   - J
   - ꝑ
   - ꝙ
   - '-'
-  - U
   - ͅ
   - ⟦
   - ⟧
   - ꝵ
-  - ꝓ
   - '|'
+  - ꝓ
   - Y
   - ’
+  - Π
   - Μ
+  - Ε
   - ʹ
   - ⁹
   - k
   - Κ
   - ζ
-  - Π
   - ↄ
+  - "'"
+  - ל
   - '!'
   - ꝗ
-  - Ε
   - ꝰ
   - ←
   - ❧
@@ -163,7 +165,6 @@ characters:
   - ᗞ
   - ח
   - ר
-  - ל
   - Τ
   - ϲ
   - ᚠ
@@ -174,7 +175,9 @@ characters:
   - Β
   - Χ
   - ᾽
-  - "'"
+  - ת
+  - פ
+  - ה
   - ƀ
   - Σ
   mode: NFD
@@ -204,11 +207,11 @@ title: FONDUE-LA-PRINT-16
 transcription-guidelines: SegmOnto
 url: https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16
 volume:
-- count: 297623
+- count: 326834
   metric: characters
-- count: 311
+- count: 334
   metric: files
-- count: 8751
+- count: 9560
   metric: lines
-- count: 993
+- count: 1081
   metric: regions
