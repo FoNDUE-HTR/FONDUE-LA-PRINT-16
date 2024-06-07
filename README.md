@@ -24,10 +24,13 @@ Books:
 | Johann Sapidus  | [_Iuuentuti Germanicæ_](https://nbn-resolving.org/urn:nbn:de:gbv:3:1-185616)                            | 1535 | Strasbourg | Wendelin Rihel    | 1 page   | M. Jeannot-Tirole |
 | Johann Sapidus  | [_Erasmus, siue Apotheosis Erasmi_](https://doi.org/10.3931/e-rara-3884)                                | 1536-37 | Basel   | Johann Froben     | 1 page   | M. Jeannot-Tirole |
 | Johann Sapidus  | [_De poculo Pauli Volsii, quod ab Erasmo Roterodami dono accepit_](https://doi.org/10.3931/e-rara-3884) | 1536-37 | Basel   | Johann Froben     | 14 pages | M. Jeannot-Tirole |
-|                 | [_Bucer_Eph_b_](https://www.e-rara.ch/)                                                                 |      |            |                   | 12 pages | Fl. Goy           |
-|                 | [_Cajetan_Rom_](https://www.e-rara.ch/)                                                                 |      |            |                   | 1 page   | Fl. Goy           |
-|                 | [_Daneau_1-Tim_](https://www.e-rara.ch/)                                                                |      |            |                   | 12 pages | Fl. Goy           |
-|                 | [_Megander_Eph_](https://www.e-rara.ch/)                                                                |      |            |                   | 11 pages | Fl. Goy           |
+| Lambert Daneau | [`T_M_Daneau_1_Tim_C1`](https://doi.org/10.3931/e-rara-6338) | 1577 | Genève   | Eustathius Vignon | 1642 pages | Fl. Goy           |
+| Lambert Daneau | [`T_M_Daneau_1_Tim_C2`](https://doi.org/10.3931/e-rara-6338) | 1577 | Genève   | Eustathius Vignon | 54 pages | Fl. Goy           |
+| Lambert Daneau | [`Daneau_1-Tim`](https://doi.org/10.3931/e-rara-6338) | 1577 | Genève   | Eustathius Vignon | 12 pages | Fl. Goy           |
+| Martin Brucer | [`Bucer_Eph_b`](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6) | 1527 | Strasbourg | Anonymus | 12 pages | Fl. Goy           |
+| Benedictus Aretius | [`Aretius_1-Tim`](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10313792-3) | 1580 | Morges | Jean Le preux | 11 pages | Fl. Goy           |
+| Thomas Cajétan| [`Cajetan_Rom`](https://www.digitale-sammlungen.de/en/view/bsb11203740) | 1532 | Paris | Badius, Parvus & Roigny | 1 page   | Fl. Goy           |
+| Kaspar Megander | [`Megander_Eph`](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00036972-0) | 1534 | Basel | Henricus Petrus	| 11 pages | Fl. Goy |
 
 ## Remarks
 
