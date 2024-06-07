@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "FONDUE-IT-PRINT-20"
+title: "FONDUE-LA-PRINT-16"
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
@@ -13,14 +13,14 @@ authors:
     email: simon.gabay@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0000-0001-9094-4475
-  - family-names: Zaglio
-    given-names: Maddalena
+  - family-names: Goy
+    given-names: Floriane
     affiliation: Geneva University
-repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-IT-PRINT-20'
+repository-code: 'https://github.com/FoNDUE-HTR/FONDUE-LA-PRINT-16'
 keywords:
   - HTR
-  - italian
-  - contemporary
-  - archive
+  - latin
+  - renaissance
+  - print
 version: 1.0
 date-released: 2023-12-02
