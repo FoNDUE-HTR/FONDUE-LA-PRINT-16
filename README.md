@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/467880911.svg)](https://zenodo.org/doi/10.5281/zenodo.11526149)
+
 # FONDUE-LA-PRINT-16
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
