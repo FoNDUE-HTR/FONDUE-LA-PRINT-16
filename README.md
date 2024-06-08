@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/467880911.svg)](https://zenodo.org/doi/10.5281/zenodo.11526149)
+[![DOI](https://zenodo.org/badge/739476144.svg)](https://zenodo.org/doi/10.5281/zenodo.11526159)
 
 # FONDUE-LA-PRINT-16
 
